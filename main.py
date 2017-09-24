@@ -10,8 +10,8 @@ sys.setdefaultencoding('utf-8')
 
 # change here
 
-mail_user = "15759260592@163.com"
-mail_pass = "A15759260592"
+mail_user = "yourmail"
+mail_pass = "yourpassword"
 smtp_host = "smtp.163.com"
 smtp_port = '994'
 # end change
